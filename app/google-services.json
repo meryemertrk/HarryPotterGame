@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817573685464",
+    "project_id": "yazlab3-d6ad3",
+    "storage_bucket": "yazlab3-d6ad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817573685464:android:e348ee91c2f8db0cc34fad",
+        "android_client_info": {
+          "package_name": "com.example.harrypottergame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817573685464-qndeamojo3jgh7q63e1l6a8o5g320ud4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADz4lUDWE8oQ8JExAHTc0KwLpdrD8c_gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817573685464-qndeamojo3jgh7q63e1l6a8o5g320ud4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
